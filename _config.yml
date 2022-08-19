@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://github.com/wenrouyinying/wenrouyinying.github.io
+baseurl: 
 
 # Title of the Site
 title: 温柔阴影:Gentle Shadow
