@@ -2,16 +2,16 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://wenrouyinying.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: https://github.com/wenrouyinying/wenrouyinying.github.io
 
 # Title of the Site
 title: 温柔阴影:Gentle Shadow
 # Description of the Site
 description: 从菜鸟到咸鱼：躺平日志
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: ./assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -38,10 +38,10 @@ spotify_username: /
 google-analytics: G-93S7CTZJDM
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: /
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: 温柔阴影
 # URL for the Image of the Author
 author-image: ./assets/images/20200310233157_ywdij.jpeg
 # 60 Words About the Author
