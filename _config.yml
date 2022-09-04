@@ -13,7 +13,7 @@ description: 从菜鸟到咸鱼：躺平日志
 # URL of Image of the Site
 site-image: ./assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Site, Blog
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -43,7 +43,7 @@ disqus-shortname: /
 # Name of the Author
 author-name: 温柔阴影
 # URL for the Image of the Author
-author-image: ./assets/images/20200310233157_ywdij.jpeg
+author-image: assets/images/20200310233157_ywdij.jpeg
 # 60 Words About the Author
 author-about: 我只是一个兴趣使然的博客作者
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
