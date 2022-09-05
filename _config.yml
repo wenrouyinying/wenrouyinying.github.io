@@ -60,8 +60,8 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
-
+#permalink: "blog/:title"
+permalink: "title"
 # Compress
 compress_html:
   clippings: all
